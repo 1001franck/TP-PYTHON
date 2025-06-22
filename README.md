@@ -23,7 +23,7 @@ Ce projet contient trois exercices de programmation Python réalisés dans le ca
 
 1. **Cloner le repository :**
    ```bash
-   git clone [URL_DU_REPO]
+   git clone https://github.com/1001franck/TP-PYTHON.git
    cd "TP PYTHON FOTSI ILOUMBOU YOMBI"
    ```
 
@@ -60,7 +60,7 @@ TP PYTHON FOTSI ILOUMBOU YOMBI/
 └── README.md
 ```
 
-## Auteur
+## Auteurs
 
 FOTSI ILOUMBOU YOMBI
 
